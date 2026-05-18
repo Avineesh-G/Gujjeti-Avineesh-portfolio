@@ -3,7 +3,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
 import { SocialIcon } from "../components/SocialIcon";
-import { Linkedin, Github, Twitter } from "lucide-react";
+import { Linkedin, Github } from "lucide-react";
 
 gsap.registerPlugin(ScrollTrigger);
 
